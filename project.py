@@ -22,5 +22,3 @@ def commom_alphabets(first_name , second_name):
             common.append(letter)
             
     return common
-
-names()
